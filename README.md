@@ -8,7 +8,10 @@ O transformador utilizado, é baseado no existente para o DSpace (mods-submissio
 Este transformador foi criado/modificado para a **versão 5.X** do DSpace, mas é possível que em versões anteriores ou posteriores do DSpace possa também ser utilizado. Desde que tenham o swordv2 instalado/ativo, deverá funcionar como na versão 5.X.
 
 # Como aplicar o códgio
-## Adicionar ao Código Fonte e Compilar  
+
+Há duas possibilidades de adicionar o código fornecido ao Repositório:
+
+## 1 - Adicionar ao Código Fonte e Compilar  
 
 * Copiar o ficheiro para a pasta do código do DSpace [SRC-DSPACE]
 * Alterar o dspace.cfg
@@ -21,7 +24,7 @@ crosswalk.submission.MODS.stylesheet= crosswalks/mods-rcaap_cienciavitae-submiss
 
 
 ## Alterando na pasta de deploy do DSpace
-* Copiar o ficheiro para a pasta onde está a instalação do DSpace
+* 2 - opiar o ficheiro para a pasta onde está a instalação do DSpace
 
 * Alterar o dspace.cfg
 ```
