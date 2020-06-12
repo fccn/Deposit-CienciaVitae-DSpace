@@ -35,7 +35,7 @@ crosswalk.submission.MODS.stylesheet= crosswalks/mods-rcaap_cienciavitae-submiss
 * restart do serviço
 
 
-Nota: O nome mods-rcaap_cienciavitae-submission.xsl pode ser alterado para um outro nome desde que os nomes sejam coerentes, nomeadamente no dspace.cfg.
+Nota: O nome mods-rcaap_cienciavitae-submission.xsl pode ser alterado para um outro nome desde que os nomes sejam iaguis em todos os locais onde exista, nomeadamente no dspace.cfg.
 
 
 # Depósito a partir do CV
@@ -50,12 +50,12 @@ A informação de como proceder para ativar o depósito pode ser encontrada aqui
 * Comunicar com o CienciViate para ativar o serviço (Ver documentação)
 
 # Input Forms
-Alguns mapeamentos do transformador podem necessitar de algumas alterações no input-forms.xml, nomeadamente os IDs e/ou o mapeamento do esquema degois (usado no contexto RCAAP)
+Alguns mapeamentos do transformador podem necessitar de algumas alterações no input-forms.xml, nomeadamente os IDs e/ou o mapeamento do esquema degois (usado no contexto RCAAP).
 Ver Documentação sobre os mapeamentos.
 
 # Alteração do transformador
-Caso algum mapeamento dê erro, ver se existem no esquema de metadados do Repositório. Neste caso, ou adicionar ou remover do ficheiro de transformação. 
-Por exemplo, no RCAAP existe o esquema degois.
+Caso algum mapeamento dê erro, ver se existem no esquema de metadados do Repositório. Neste caso, ou adicionar ao repositótio ou remover do ficheiro de transformação. 
+Por exemplo, no RCAAP existe o esquema degois. 
 
 Para mais informações/ajuda contacar:
 [RCAAP](mailto:helpdesk@rcaap.pt)
