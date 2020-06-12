@@ -42,8 +42,8 @@ A informação de como proceder para ativar o depósito pode ser encontrada aqui
 > [Documentação](https://docs.google.com/document/d/1yYfE8HBU7z1hOTwnaagXWlWVWksgcYksz3HSh2wrNRM) 
 
 ## Ativação do Depósito
-* Criar user genérico
-* Criar Coleção genérica
+* Criar utilizador genérico
+* Criar coleção genérica
 * Comunicar com o CienciViate para ativar o serviço (Ver documentação)
 
 # Input Forms
