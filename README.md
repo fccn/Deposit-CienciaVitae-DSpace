@@ -24,7 +24,7 @@ crosswalk.submission.MODS.stylesheet= crosswalks/mods-rcaap_cienciavitae-submiss
 
 
 ## Alterando na pasta de deploy do DSpace
-* 2 - opiar o ficheiro para a pasta onde está a instalação do DSpace
+* 2 - Copiar o ficheiro para a pasta onde está a instalação do DSpace
 
 * Alterar o dspace.cfg
 ```
